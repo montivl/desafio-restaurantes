@@ -9,7 +9,7 @@ Aplicación web para llevar registro de restaurantes, bares, cafeterías y otros
 | Capa          | Tecnología                              |
 | ------------- | --------------------------------------- |
 | Frontend      | React + TypeScript (Vite)               |
-| Estilos       | CSS propio (sin framework)              |
+| Estilos       | Template con modificaciones (mencionado abajo)             |
 | Backend       | Python 3.11 + FastAPI                   |
 | ORM           | SQLAlchemy 2.0                          |
 | Base de datos | SQLite (archivo local 'restaurants.db') |
