@@ -79,7 +79,7 @@ El servidor queda en 'http://localhost:8000'.
 cd restaurant-project
 
 # Instalar dependencias
-npm install
+npm install bootstrap
 
 # Iniciar el servidor
 npm run dev
